@@ -1,9 +1,9 @@
 ## 👋 Hi there, I'm Anthony 👨🏻‍💻
 
-A software engineer that turns coffee into code and enjoy being challenged and engaged with projects that require me to work outside my comfort and knowledge set, as continuing to learn new languages and development techniques are important to me.
+A software engineer that turns coffee into code and enjoy being challenged and engaged with projects that require me to work outside my comfort and knowledge set, as continuing to learn new technologies and development techniques are important to me.
 
 - 🔭 I’m currently working on
-  - [Gump](https://gump.gg) - collaboration tool for photographers for better productivity and client experience
+  - [Gump](https://gump.gg) - collaboration tool for photographers for better productivity and client experience.
   - [Exort](https://github.com/tontonskie/exort) - `TypeScript` framework that I'm currently building for my personal preferences and also for fun and learning.
 - 🌱 I’m currently learning `GraphQL`, `Machine Learning` and `Deno`.
 - 👯 I’m looking to collaborate on Open-source projects.
