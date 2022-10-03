@@ -34,13 +34,13 @@ A software engineer that turns coffee into code and enjoy being challenged and e
   </a>
 </p>
 
-### 🤝🏻 Connect with Me
+[//]### 🤝🏻 Connect with Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/anthonydeleon/">
-    <img alt="Linkedin profile" title="Linkedin" src="https://raw.githubusercontent.com/tontonskie/tontonskie/master/assets/linkedin.svg" width="100" height="30"/>
-  </a>
-  <a href="mailto:tontondeleon03@gmail.com">
-    <img alt="Gmail" src="https://raw.githubusercontent.com/tontonskie/tontonskie/master/assets/google-gmail.svg" title="Email" width="100" height="30"/>
-  </a>
-</p>
+[//]<p align="center">
+[//]  <a href="https://www.linkedin.com/in/anthonydeleon/">
+[//]    <img alt="Linkedin profile" title="Linkedin" src="https://raw.githubusercontent.com/tontonskie/tontonskie/master/assets/linkedin.svg" width="100" height="30"/>
+[//]  </a>
+[//]  <a href="mailto:tontondeleon03@gmail.com">
+[//]    <img alt="Gmail" src="https://raw.githubusercontent.com/tontonskie/tontonskie/master/assets/google-gmail.svg" title="Email" width="100" height="30"/>
+[//]  </a>
+[//]</p>
